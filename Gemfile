@@ -86,3 +86,5 @@ gem 'will_paginate', '~> 3.3.0'
 gem 'devise'
 
 gem 'cancancan'
+
+gem 'rswag'
